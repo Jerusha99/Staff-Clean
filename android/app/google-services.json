@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "990244900527",
+    "firebase_url": "https://cleaningapp-800dd-default-rtdb.firebaseio.com",
+    "project_id": "cleaningapp-800dd",
+    "storage_bucket": "cleaningapp-800dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990244900527:android:9169ae904a74ee66630e5a",
+        "android_client_info": {
+          "package_name": "com.example.cleaning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRJqxM5FehECFLNrTF46xcWV1aju4sv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
